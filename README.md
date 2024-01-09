@@ -1,5 +1,4 @@
-# namma-metro
-Spring Web MVC Project<br>
+# namma-metro (Spring Web MVC Project)
 Technology Used :<br>
 Spring Web MVC framework<br>
 Java<br>
