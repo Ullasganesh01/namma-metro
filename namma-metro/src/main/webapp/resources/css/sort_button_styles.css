@@ -1,0 +1,18 @@
+.sort-icons {
+    margin-left: 5px;
+    display: inline-grid;
+    width: fit-content;
+}
+
+.fa-solid{
+    height: 10px;
+}
+
+.fa-sort-down{
+    top: -5px;
+    position: relative;
+}
+
+a{
+    color : darkslateblue;
+}

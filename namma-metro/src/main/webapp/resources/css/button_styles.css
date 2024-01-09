@@ -1,0 +1,37 @@
+#updatebtn {
+    background-color: rgba(240, 206, 14, 0.938);
+}
+
+#deletebtn {
+    background-color: rgba(235, 56, 21, 0.938);
+}
+
+#viewTickets{
+    background-color: rgba(45, 156, 230, 0.938);
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #fff;
+}
+
+button {
+    background-color: #2ecc71;
+    color: #fff;
+    padding: 3px 10px;
+    margin: 0 10px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #27ae60;
+}

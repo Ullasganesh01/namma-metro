@@ -1,0 +1,11 @@
+.footer {
+    background-color: #a2d3e9;
+    color: white;
+    width: 100%;
+}
+
+.mysearchform {
+    width: max-content;
+    margin: auto;
+    margin-right: 10px;
+}
